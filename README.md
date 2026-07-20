@@ -10,3 +10,8 @@ Today I learned more about Base, Ethereum's Layer 2 network built to make transa
 ### Day 4 — Why Layer 2 Matters
 
 Today I learned why Layer 2 networks are important for Ethereum. They help reduce transaction costs, improve scalability, and make decentralized applications faster and more accessible while benefiting from Ethereum's security.
+
+### Day 5 — Building on Base
+
+Today I explored how Base provides a developer-friendly environment for building decentralized applications. Its low transaction fees, fast confirmations, and strong Ethereum compatibility make it an attractive network for both developers and users.
+
