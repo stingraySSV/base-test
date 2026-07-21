@@ -15,3 +15,7 @@ Today I learned why Layer 2 networks are important for Ethereum. They help reduc
 
 Today I explored how Base provides a developer-friendly environment for building decentralized applications. Its low transaction fees, fast confirmations, and strong Ethereum compatibility make it an attractive network for both developers and users.
 
+### Day 6 — Ethereum and Base
+
+Today I learned how Base extends Ethereum by providing a faster and more cost-effective environment for decentralized applications. It combines Ethereum's security with improved scalability, making blockchain technology more practical for everyday use.
+
