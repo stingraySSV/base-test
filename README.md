@@ -22,3 +22,7 @@ Today I learned how Base extends Ethereum by providing a faster and more cost-ef
 ### Day 7 — Weekly Reflection
 
 This week I explored the fundamentals of the Base ecosystem, including its role as an Ethereum Layer 2 network, the benefits of scalability, and its builder-friendly environment. I'm looking forward to learning more and continuing this journey one step at a time.
+
+### Day 8 — Exploring the Base Ecosystem
+
+Today I explored the growing Base ecosystem and learned how different projects contribute to the network. From DeFi and NFTs to social and developer tools, the ecosystem continues to expand with innovative onchain applications.
