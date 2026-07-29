@@ -26,3 +26,7 @@ This week I explored the fundamentals of the Base ecosystem, including its role 
 ### Day 8 — Exploring the Base Ecosystem
 
 Today I explored the growing Base ecosystem and learned how different projects contribute to the network. From DeFi and NFTs to social and developer tools, the ecosystem continues to expand with innovative onchain applications.
+
+### Day 9 — Onchain Transactions
+
+Today I learned more about onchain transactions on Base. Every transaction creates a verifiable record on the blockchain, allowing users and applications to interact with smart contracts and transfer assets in a transparent way.
