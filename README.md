@@ -30,3 +30,7 @@ Today I explored the growing Base ecosystem and learned how different projects c
 ### Day 9 — Onchain Transactions
 
 Today I learned more about onchain transactions on Base. Every transaction creates a verifiable record on the blockchain, allowing users and applications to interact with smart contracts and transfer assets in a transparent way.
+
+### Day 10 — Smart Contracts on Base
+
+Today I learned more about smart contracts and their role in the Base ecosystem. Smart contracts are programs deployed on the blockchain that can execute predefined actions when their conditions are met. They enable decentralized applications to operate without relying on a central intermediary.
