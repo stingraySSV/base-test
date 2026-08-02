@@ -34,3 +34,8 @@ Today I learned more about onchain transactions on Base. Every transaction creat
 ### Day 10 — Smart Contracts on Base
 
 Today I learned more about smart contracts and their role in the Base ecosystem. Smart contracts are programs deployed on the blockchain that can execute predefined actions when their conditions are met. They enable decentralized applications to operate without relying on a central intermediary.
+
+### Day 11 — Wallet Security
+
+Today I learned more about wallet security in the Base ecosystem. Protecting a wallet starts with keeping the recovery phrase private, using strong authentication, and carefully reviewing every transaction before signing it. Good security habits are essential for safely interacting with decentralized applications.
+
