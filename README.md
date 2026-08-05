@@ -39,3 +39,7 @@ Today I learned more about smart contracts and their role in the Base ecosystem.
 
 Today I learned more about wallet security in the Base ecosystem. Protecting a wallet starts with keeping the recovery phrase private, using strong authentication, and carefully reviewing every transaction before signing it. Good security habits are essential for safely interacting with decentralized applications.
 
+### Day 12 — Bridging Assets to Base
+
+Today I learned how blockchain bridges help users move assets between Ethereum and Base. Bridges make it possible to access the Base ecosystem while maintaining compatibility with Ethereum, making cross-chain interactions more convenient.
+
