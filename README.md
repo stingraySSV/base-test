@@ -43,3 +43,7 @@ Today I learned more about wallet security in the Base ecosystem. Protecting a w
 
 Today I learned how blockchain bridges help users move assets between Ethereum and Base. Bridges make it possible to access the Base ecosystem while maintaining compatibility with Ethereum, making cross-chain interactions more convenient.
 
+### Day 13 — Gas Fees on Base
+
+Today I learned why gas fees on Base are significantly lower than on Ethereum mainnet. Lower transaction costs make decentralized applications more accessible and encourage users to interact with the ecosystem more frequently while still benefiting from Ethereum's security.
+
