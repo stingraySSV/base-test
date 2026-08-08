@@ -47,3 +47,7 @@ Today I learned how blockchain bridges help users move assets between Ethereum a
 
 Today I learned why gas fees on Base are significantly lower than on Ethereum mainnet. Lower transaction costs make decentralized applications more accessible and encourage users to interact with the ecosystem more frequently while still benefiting from Ethereum's security.
 
+### Day 14 — Weekly Reflection
+
+This week I explored more practical aspects of the Base ecosystem, including onchain transactions, smart contracts, wallet security, bridges, and gas fees. I have a better understanding of how these components work together and why Layer 2 networks like Base are important for everyday blockchain use.
+
