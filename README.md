@@ -51,3 +51,8 @@ Today I learned why gas fees on Base are significantly lower than on Ethereum ma
 
 This week I explored more practical aspects of the Base ecosystem, including onchain transactions, smart contracts, wallet security, bridges, and gas fees. I have a better understanding of how these components work together and why Layer 2 networks like Base are important for everyday blockchain use.
 
+### Day 15 — DeFi on Base
+
+Today I explored the role of decentralized finance in the Base ecosystem. DeFi applications allow users to trade, lend, borrow, and manage digital assets through smart contracts. Base provides a lower-cost environment that can make these onchain financial applications more accessible.
+
+
