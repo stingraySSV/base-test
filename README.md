@@ -55,4 +55,8 @@ This week I explored more practical aspects of the Base ecosystem, including onc
 
 Today I explored the role of decentralized finance in the Base ecosystem. DeFi applications allow users to trade, lend, borrow, and manage digital assets through smart contracts. Base provides a lower-cost environment that can make these onchain financial applications more accessible.
 
+### Day 16 — NFTs and Digital Ownership
+
+Today I explored how NFTs can be used to represent digital ownership onchain. On Base, NFTs can be created and used in different applications, including digital art, collectibles, gaming, and community experiences. Their onchain nature makes ownership and transfers publicly verifiable.
+
 
