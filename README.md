@@ -59,4 +59,8 @@ Today I explored the role of decentralized finance in the Base ecosystem. DeFi a
 
 Today I explored how NFTs can be used to represent digital ownership onchain. On Base, NFTs can be created and used in different applications, including digital art, collectibles, gaming, and community experiences. Their onchain nature makes ownership and transfers publicly verifiable.
 
+### Day 17 — Base Developer Tools
+
+Today I explored some of the tools available to developers building on Base. Developer tools make it easier to deploy smart contracts, interact with onchain data, test applications, and monitor transactions. A strong set of tools helps builders create and improve applications more efficiently.
+
 
