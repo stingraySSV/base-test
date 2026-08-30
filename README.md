@@ -67,4 +67,6 @@ Today I explored some of the tools available to developers building on Base. Dev
 
 Today I explored how onchain applications use blockchain infrastructure to provide services directly through smart contracts. Base makes these applications more accessible by offering lower transaction costs and fast interactions, creating opportunities for new products and user experiences.
 
+### Day 19 — The Onchain Economy
 
+Today I explored the idea of the onchain economy and how users, developers, and communities interact through blockchain-based applications. Base provides infrastructure for these interactions, making it easier to build and use products that operate directly onchain.
