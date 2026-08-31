@@ -70,3 +70,8 @@ Today I explored how onchain applications use blockchain infrastructure to provi
 ### Day 19 — The Onchain Economy
 
 Today I explored the idea of the onchain economy and how users, developers, and communities interact through blockchain-based applications. Base provides infrastructure for these interactions, making it easier to build and use products that operate directly onchain.
+
+### Day 20 — 20 Days of Building
+
+Today marks 20 days of my Base Builder journey. During this time I explored Layer 2, onchain transactions, smart contracts, wallets, bridges, DeFi, NFTs, and the wider Base ecosystem. I'm continuing to build my knowledge through consistent daily learning and hands-on exploration.
+
