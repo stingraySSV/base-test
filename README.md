@@ -75,3 +75,7 @@ Today I explored the idea of the onchain economy and how users, developers, and 
 
 Today marks 20 days of my Base Builder journey. During this time I explored Layer 2, onchain transactions, smart contracts, wallets, bridges, DeFi, NFTs, and the wider Base ecosystem. I'm continuing to build my knowledge through consistent daily learning and hands-on exploration.
 
+### Day 21 — Base and Open Source
+
+Today I explored the role of open source in the Base ecosystem. Open source projects allow developers to collaborate, review code, share ideas, and build on existing work. This collaborative approach helps the ecosystem grow faster and gives more people an opportunity to contribute.
+
