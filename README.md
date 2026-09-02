@@ -79,3 +79,7 @@ Today marks 20 days of my Base Builder journey. During this time I explored Laye
 
 Today I explored the role of open source in the Base ecosystem. Open source projects allow developers to collaborate, review code, share ideas, and build on existing work. This collaborative approach helps the ecosystem grow faster and gives more people an opportunity to contribute.
 
+### Day 22 — The Base Community
+
+Today I explored the importance of community in the Base ecosystem. Builders, users, creators, and contributors all play a role in growing an onchain network. A strong community helps share knowledge, discover new projects, and create new opportunities across the ecosystem.
+
