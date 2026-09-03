@@ -83,3 +83,7 @@ Today I explored the role of open source in the Base ecosystem. Open source proj
 
 Today I explored the importance of community in the Base ecosystem. Builders, users, creators, and contributors all play a role in growing an onchain network. A strong community helps share knowledge, discover new projects, and create new opportunities across the ecosystem.
 
+### Day 23 — User Experience on Base
+
+Today I explored how lower transaction costs and faster confirmations can improve the user experience onchain. Making blockchain interactions simpler and more affordable can help more people use decentralized applications in their everyday activities.
+
