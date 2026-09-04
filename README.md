@@ -87,3 +87,7 @@ Today I explored the importance of community in the Base ecosystem. Builders, us
 
 Today I explored how lower transaction costs and faster confirmations can improve the user experience onchain. Making blockchain interactions simpler and more affordable can help more people use decentralized applications in their everyday activities.
 
+### Day 24 — Developers on Base
+
+Today I explored how Base supports developers building onchain applications. Ethereum compatibility allows developers to use familiar tools and technologies while taking advantage of Base's lower-cost transaction environment. This makes it easier to experiment, build, and bring new ideas onchain.
+
