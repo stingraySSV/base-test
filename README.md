@@ -91,3 +91,7 @@ Today I explored how lower transaction costs and faster confirmations can improv
 
 Today I explored how Base supports developers building onchain applications. Ethereum compatibility allows developers to use familiar tools and technologies while taking advantage of Base's lower-cost transaction environment. This makes it easier to experiment, build, and bring new ideas onchain.
 
+### Day 25 — A Growing Base Builder Journey
+
+Today marks 25 days of consistent learning and exploration within the Base ecosystem. During this journey, I have explored topics ranging from Layer 2 technology and smart contracts to DeFi, NFTs, wallet security, and the importance of community. I look forward to continuing this journey and expanding my knowledge through daily learning and exploration.
+
