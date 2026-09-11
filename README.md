@@ -95,3 +95,7 @@ Today I explored how Base supports developers building onchain applications. Eth
 
 Today marks 25 days of consistent learning and exploration within the Base ecosystem. During this journey, I have explored topics ranging from Layer 2 technology and smart contracts to DeFi, NFTs, wallet security, and the importance of community. I look forward to continuing this journey and expanding my knowledge through daily learning and exploration.
 
+### Day 26 — Learning Through Onchain Exploration
+
+Today I continued exploring the Base ecosystem through daily learning and hands-on interaction with onchain applications. Exploring different tools and projects helps me better understand how blockchain technology works in practice and how users and builders contribute to the growth of the ecosystem.
+
