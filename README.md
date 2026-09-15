@@ -107,3 +107,7 @@ Today I continued exploring the Base ecosystem by discovering new onchain projec
 
 This week I continued exploring the Base ecosystem through daily learning and onchain discovery. I focused on understanding how different projects, communities, and applications contribute to the growth of the ecosystem. Consistency has helped me build a clearer picture of how users and builders interact in the onchain world.
 
+### Day 29 — Building Better Onchain Habits
+
+Today I focused on developing better habits for exploring the onchain ecosystem. Taking time to understand transactions, applications, and project mechanics before interacting with them helps build confidence and make more informed decisions. Consistent learning remains an important part of my Base Builder journey.
+
