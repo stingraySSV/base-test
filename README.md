@@ -111,3 +111,7 @@ This week I continued exploring the Base ecosystem through daily learning and on
 
 Today I focused on developing better habits for exploring the onchain ecosystem. Taking time to understand transactions, applications, and project mechanics before interacting with them helps build confidence and make more informed decisions. Consistent learning remains an important part of my Base Builder journey.
 
+### Day 30 — 30 Days of Building
+
+Today marks 30 days of my Base Builder journey. Over the past month, I have consistently explored the Base ecosystem, learning about onchain applications, smart contracts, DeFi, NFTs, security, communities, and the tools used by builders. This daily practice has helped me build a stronger understanding of the onchain ecosystem and stay consistent with my goals.
+
