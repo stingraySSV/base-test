@@ -115,3 +115,7 @@ Today I focused on developing better habits for exploring the onchain ecosystem.
 
 Today marks 30 days of my Base Builder journey. Over the past month, I have consistently explored the Base ecosystem, learning about onchain applications, smart contracts, DeFi, NFTs, security, communities, and the tools used by builders. This daily practice has helped me build a stronger understanding of the onchain ecosystem and stay consistent with my goals.
 
+### Day 31 — Base and the Builder Mindset
+
+Today I focused on the builder mindset and the importance of continuous experimentation. Exploring ideas, learning from different projects, and improving through small steps are all part of building in the onchain ecosystem. I want to keep developing this mindset throughout my Base journey.
+
