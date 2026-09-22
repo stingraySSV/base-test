@@ -123,3 +123,7 @@ Today I focused on the builder mindset and the importance of continuous experime
 
 Today I continued exploring the communities that are building and contributing within the Base ecosystem. Communities bring together builders, creators, users, and contributors who share knowledge, discover new projects, and help each other learn. Being part of this environment is an important part of my ongoing Base journey.
 
+### Day 33 — Learning from Onchain Data
+
+Today I explored how onchain data can provide useful insights into blockchain activity. Transactions, contract interactions, and wallet activity create a transparent record that can be analyzed to better understand how an ecosystem develops. Learning to observe this data is another step in becoming a more informed Base contributor.
+
