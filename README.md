@@ -127,3 +127,7 @@ Today I continued exploring the communities that are building and contributing w
 
 Today I explored how onchain data can provide useful insights into blockchain activity. Transactions, contract interactions, and wallet activity create a transparent record that can be analyzed to better understand how an ecosystem develops. Learning to observe this data is another step in becoming a more informed Base contributor.
 
+### Day 34 — The Role of Contributors
+
+Today I reflected on how contributors can help an onchain ecosystem grow. Sharing feedback, testing applications, documenting experiences, and supporting communities are all valuable ways to contribute. Building an ecosystem is not only about writing code, but also about the people who actively participate and help improve it.
+
