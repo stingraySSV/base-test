@@ -135,3 +135,7 @@ Today I reflected on how contributors can help an onchain ecosystem grow. Sharin
 
 Today marks 35 days of my Base Builder journey. Consistent daily learning has helped me better understand the ecosystem and discover new ways to participate. Small contributions may seem simple individually, but maintaining the habit over time creates meaningful progress.
 
+### Day 36 — Exploring Onchain User Experience
+
+Today I focused on the user experience of onchain applications. Clear interfaces, simple interactions, and understandable transaction flows can make blockchain products easier to explore and use. Paying attention to these details helps me better understand what makes an onchain experience practical for everyday users.
+
