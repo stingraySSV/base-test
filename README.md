@@ -139,3 +139,6 @@ Today marks 35 days of my Base Builder journey. Consistent daily learning has he
 
 Today I focused on the user experience of onchain applications. Clear interfaces, simple interactions, and understandable transaction flows can make blockchain products easier to explore and use. Paying attention to these details helps me better understand what makes an onchain experience practical for everyday users.
 
+### Day 37 — Learning from Community Feedback
+
+Today I focused on the value of community feedback in the Base ecosystem. Feedback from users and contributors can help projects identify problems, improve their products, and create better experiences. Listening, testing, and sharing useful observations are practical ways to contribute to an onchain community.
