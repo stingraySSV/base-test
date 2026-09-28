@@ -142,3 +142,8 @@ Today I focused on the user experience of onchain applications. Clear interfaces
 ### Day 37 — Learning from Community Feedback
 
 Today I focused on the value of community feedback in the Base ecosystem. Feedback from users and contributors can help projects identify problems, improve their products, and create better experiences. Listening, testing, and sharing useful observations are practical ways to contribute to an onchain community.
+
+### Day 38 — Testing and Improving
+
+Today I focused on the importance of testing when exploring onchain applications. Testing helps identify issues, understand how products behave, and provide useful feedback to builders. Every testing experience is an opportunity to learn something new and contribute to better products.
+
