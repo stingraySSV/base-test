@@ -147,3 +147,8 @@ Today I focused on the value of community feedback in the Base ecosystem. Feedba
 
 Today I focused on the importance of testing when exploring onchain applications. Testing helps identify issues, understand how products behave, and provide useful feedback to builders. Every testing experience is an opportunity to learn something new and contribute to better products.
 
+### Day 39 — Contributing Beyond Code
+
+Today I explored different ways to contribute to an onchain ecosystem beyond writing code. Testing products, sharing feedback, documenting experiences, supporting communities, and helping other users can all create value. Every contributor can play a meaningful role in helping an ecosystem grow.
+
+
