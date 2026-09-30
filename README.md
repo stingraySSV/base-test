@@ -151,4 +151,8 @@ Today I focused on the importance of testing when exploring onchain applications
 
 Today I explored different ways to contribute to an onchain ecosystem beyond writing code. Testing products, sharing feedback, documenting experiences, supporting communities, and helping other users can all create value. Every contributor can play a meaningful role in helping an ecosystem grow.
 
+### Day 40 — 40 Days of Building
+
+Today marks 40 days of my Base Builder journey. Over these weeks, I have continued learning about the Base ecosystem, exploring onchain applications, testing products, studying community contributions, and improving my understanding of blockchain technology. Staying consistent every day has turned small steps into steady progress.
+
 
