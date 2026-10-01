@@ -155,4 +155,8 @@ Today I explored different ways to contribute to an onchain ecosystem beyond wri
 
 Today marks 40 days of my Base Builder journey. Over these weeks, I have continued learning about the Base ecosystem, exploring onchain applications, testing products, studying community contributions, and improving my understanding of blockchain technology. Staying consistent every day has turned small steps into steady progress.
 
+### Day 41 — Exploring Base Tools
+
+Today I continued exploring the tools that support users and builders within the Base ecosystem. Understanding how different tools work together makes it easier to navigate onchain applications, test new ideas, and learn from real interactions. Exploring these tools is another step in becoming a more active contributor.
+
 
