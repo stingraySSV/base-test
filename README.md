@@ -159,4 +159,8 @@ Today marks 40 days of my Base Builder journey. Over these weeks, I have continu
 
 Today I continued exploring the tools that support users and builders within the Base ecosystem. Understanding how different tools work together makes it easier to navigate onchain applications, test new ideas, and learn from real interactions. Exploring these tools is another step in becoming a more active contributor.
 
+### Day 42 — The Value of Onchain Transparency
+
+Today I reflected on how onchain transparency can help users better understand blockchain activity. Public transaction records make it possible to verify interactions and follow activity without relying entirely on centralized systems. This transparency is an important part of the onchain experience and continues to shape how people interact with blockchain applications.
+
 
