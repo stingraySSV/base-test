@@ -168,4 +168,8 @@ Today I reflected on how onchain transparency can help users better understand b
 Today I continued exploring the Base ecosystem with a focus on learning through practical experience. Trying different applications, observing how they work, and reflecting on the experience helps me understand onchain products from a user's perspective. Each new interaction gives me another opportunity to learn and improve.
 
 
+### Day 44 — Understanding Onchain Communities
+
+Today I continued learning about the role of communities in the onchain ecosystem. Communities bring together different perspectives, share useful information, and help new users discover projects and opportunities. Active participation and constructive feedback can make the ecosystem stronger and more welcoming.
+
 
