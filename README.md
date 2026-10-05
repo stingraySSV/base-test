@@ -172,4 +172,8 @@ Today I continued exploring the Base ecosystem with a focus on learning through 
 
 Today I continued learning about the role of communities in the onchain ecosystem. Communities bring together different perspectives, share useful information, and help new users discover projects and opportunities. Active participation and constructive feedback can make the ecosystem stronger and more welcoming.
 
+### Day 45 — Learning by Doing
+
+Today I continued learning about Base through practical exploration. Instead of only reading about blockchain concepts, interacting with applications and observing how different features work helps turn theory into practical knowledge. Every small experiment adds to my understanding of the onchain ecosystem.
+
 
