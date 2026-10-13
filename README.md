@@ -210,3 +210,23 @@ I also considered how community participation and open development can contribut
 
 Continue learning about Base infrastructure, explore useful onchain applications, and understand how builders can contribute to a more open and accessible blockchain ecosystem.
 
+
+## Day 51 — Improving Onchain User Experience
+
+### What I learned
+
+User experience plays a major role in the adoption of blockchain technology. Even powerful decentralized applications can struggle to attract users if basic interactions are confusing, expensive, or difficult to understand.
+
+Base helps make onchain applications more accessible by offering a low-cost environment for transactions and an ecosystem where developers can build user-friendly products.
+
+Simplifying wallet interactions, providing clear transaction information, and reducing unnecessary complexity can help more people confidently explore onchain technology.
+
+### What I did
+
+I reflected on the importance of user experience in the Base ecosystem and how small improvements can make decentralized applications easier to use.
+
+I focused on three key areas: simpler onboarding, transparent transaction flows, and clear communication that helps users understand what they are doing onchain.
+
+### Next goal
+
+Continue exploring the Base ecosystem, evaluate applications from a user's perspective, and identify opportunities to improve accessibility, usability, and the overall onchain experience.
