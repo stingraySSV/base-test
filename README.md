@@ -295,4 +295,23 @@ I focused on observing application behavior, identifying usability issues, commu
 Continue exploring applications in the Base ecosystem, provide constructive feedback when appropriate, and look for opportunities to contribute through testing, research, and community participation.
 
 
+## Day 55 — Why Testing Matters for Onchain Applications
+
+### What I learned
+
+Testing is a critical part of building reliable onchain applications. Even small issues in a user interface, transaction flow, or smart contract interaction can lead to confusion, failed transactions, or unexpected outcomes.
+
+A good testing process helps identify problems before they affect real users. It includes checking different scenarios, validating transaction behavior, reviewing error messages, and making sure the application responds correctly to unexpected situations.
+
+Within the Base ecosystem, reliable applications and smooth user experiences are essential for building long-term user confidence. Testing is not just a final step before launch; it is an ongoing process that supports continuous improvement.
+
+### What I did
+
+I reflected on the role of testing in improving the reliability and usability of onchain applications. I focused on the importance of checking core functionality, identifying potential issues, and documenting clear, reproducible feedback.
+
+I also considered how community members can contribute to product quality by testing applications from a user's perspective and communicating problems constructively.
+
+### Next goal
+
+Continue exploring applications in the Base ecosystem, pay attention to potential usability issues, and develop a more systematic approach to testing and providing actionable product feedback.
 
