@@ -336,4 +336,26 @@ I also considered how small, practical contributions can help improve products a
 Continue contributing to the Base ecosystem through consistent learning, product exploration, constructive feedback, and community engagement. Focus on quality and usefulness while building a sustainable long-term contribution history.
 
 
+## Day 57 — Accessibility and Inclusion in Web3
+
+### What I learned
+
+Accessibility is an important part of making Web3 useful to a wider audience. Blockchain technology can offer new opportunities, but complicated interfaces, unfamiliar terminology, and unclear transaction flows can discourage people from getting started.
+
+Building a more inclusive onchain ecosystem means making applications easier to understand, providing clear guidance, and helping newcomers navigate common challenges. Good documentation, readable interfaces, and informative error messages can make a meaningful difference.
+
+Within the Base ecosystem, improving accessibility can help more people explore onchain applications with confidence, regardless of their technical background.
+
+### What I did
+
+I reflected on the barriers that can prevent newcomers from participating in Web3. I focused on the importance of clear communication, intuitive product design, and helpful educational resources.
+
+I also considered how community members can support accessibility by sharing knowledge, reporting confusing user experiences, and helping others understand onchain interactions.
+
+### Next goal
+
+Continue exploring the Base ecosystem from a user's perspective, identify potential barriers to adoption, and contribute practical feedback that can make onchain products more accessible and welcoming.
+
+
+
 
