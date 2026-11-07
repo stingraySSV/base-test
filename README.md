@@ -537,3 +537,36 @@ Continue exploring Aerodrome Finance from a user and QA perspective. Pay closer 
 
 Look for potential usability improvements and opportunities to provide constructive feedback that could make DeFi products on Base more accessible to everyday users.
 
+## Day 65 — Understanding Liquidity Risks in DeFi
+
+### What I learned
+
+Liquidity is one of the foundations of decentralized finance. It allows users to exchange assets efficiently, but providing liquidity also introduces risks that are important to understand.
+
+One of the main risks is impermanent loss. It occurs when the relative prices of two deposited assets change, potentially leaving liquidity providers with a lower value than simply holding those assets.
+
+Other important factors include smart contract security, token volatility, pool depth, trading fees, and changing reward incentives.
+
+In the Base ecosystem, protocols such as Aerodrome demonstrate how liquidity pools connect traders, liquidity providers, and governance participants.
+
+Understanding these mechanisms is essential for making informed decisions and evaluating DeFi products responsibly.
+
+### What I did
+
+I explored the main risks associated with liquidity provision and considered how they affect the user experience.
+
+I focused on five areas:
+
+- Impermanent loss and token price fluctuations.
+- Liquidity depth and potential slippage.
+- Smart contract and protocol risks.
+- Changes in trading fees and reward incentives.
+- The importance of understanding pool mechanics before depositing assets.
+
+I also reflected on how clear risk disclosures and transparent interfaces can help users make better decisions.
+
+### Next goal
+
+Continue evaluating DeFi applications in the Base ecosystem. Pay closer attention to how protocols communicate risks, display liquidity information, and explain potential rewards and losses.
+
+Develop a more structured approach to product evaluation from both a user and QA perspective.
