@@ -570,3 +570,33 @@ I also reflected on how clear risk disclosures and transparent interfaces can he
 Continue evaluating DeFi applications in the Base ecosystem. Pay closer attention to how protocols communicate risks, display liquidity information, and explain potential rewards and losses.
 
 Develop a more structured approach to product evaluation from both a user and QA perspective.
+
+
+## Day 66 — QA Testing: Evaluating DeFi Transaction Flows
+
+### What I learned
+
+Transaction flows are one of the most important parts of any DeFi application. Even when a platform offers powerful features, unclear transaction details or unexpected behavior can negatively affect user confidence.
+
+When evaluating a decentralized exchange such as Aerodrome Finance, it is important to examine the entire process, from selecting tokens to confirming a transaction.
+
+A structured QA approach helps identify potential issues before they affect users. Particular attention should be paid to token selection, price quotes, slippage settings, network fees, wallet confirmations, and transaction status.
+
+### What I did
+
+I developed a practical QA checklist for evaluating DeFi swap functionality, using Aerodrome Finance as a reference product.
+
+The checklist covers several important test scenarios:
+
+- **Token selection:** Verify that the correct tokens and trading pair are displayed.
+- **Input validation:** Check how the interface handles empty fields, invalid amounts, and insufficient balances.
+- **Price quotation:** Review estimated output amounts and exchange rates.
+- **Slippage protection:** Understand how slippage settings affect transaction execution.
+- **Wallet interaction:** Evaluate the clarity of transaction details before confirmation.
+- **Transaction status:** Check whether successful, pending, and failed transactions are communicated clearly.
+
+I also considered the importance of testing edge cases and documenting reproducible issues rather than relying on general impressions.
+
+### Next goal
+
+Apply this QA checklist to real DeFi interfaces in the Base ecosystem. Focus on identifying usability problems, documenting unexpected behavior, and preparing actionable feedback that can help improve product reliability and user confidence.
