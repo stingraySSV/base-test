@@ -600,3 +600,39 @@ I also considered the importance of testing edge cases and documenting reproduci
 ### Next goal
 
 Apply this QA checklist to real DeFi interfaces in the Base ecosystem. Focus on identifying usability problems, documenting unexpected behavior, and preparing actionable feedback that can help improve product reliability and user confidence.
+
+
+## Day 67 — Writing Effective QA Test Reports for DeFi Applications
+
+### What I learned
+
+A good QA report helps development teams understand problems, reproduce unexpected behavior, and prioritize improvements.
+
+In decentralized applications, reporting an issue requires more than describing what went wrong. A useful report should include the testing environment, reproduction steps, expected behavior, actual results, and the potential impact on users.
+
+Clear documentation also helps distinguish between confirmed bugs, usability concerns, and feature suggestions.
+
+For DeFi applications on Base, accurate reporting is particularly important because transaction-related issues can affect user funds and confidence in a protocol.
+
+### What I did
+
+I developed a basic structure for documenting QA findings when evaluating DeFi applications.
+
+My reporting framework includes:
+
+- **Test case:** What functionality is being evaluated.
+- **Environment:** Browser, wallet, network, and relevant conditions.
+- **Steps to reproduce:** A clear sequence of actions.
+- **Expected result:** What should happen.
+- **Actual result:** What happened during testing.
+- **Status:** Passed, Failed, or Not Tested.
+- **Severity:** The potential impact of the issue.
+
+I also considered the importance of providing screenshots and transaction references when appropriate, while never exposing private keys or sensitive wallet information.
+
+### Next goal
+
+Use this reporting framework when exploring applications in the Base ecosystem. Practice documenting test scenarios, distinguishing confirmed issues from suggestions, and preparing clear reports that developers can use to improve product quality.
+
+
+
