@@ -634,5 +634,35 @@ I also considered the importance of providing screenshots and transaction refere
 
 Use this reporting framework when exploring applications in the Base ecosystem. Practice documenting test scenarios, distinguishing confirmed issues from suggestions, and preparing clear reports that developers can use to improve product quality.
 
+## Day 68 — Onchain Verification: Understanding Blockchain Explorers
+
+### What I learned
+
+Blockchain explorers are essential tools for understanding and verifying onchain activity. They allow users to inspect transactions, wallet interactions, smart contracts, and network activity using publicly available blockchain data.
+
+For users and QA contributors, explorers provide an additional layer of transparency. Instead of relying only on an application's interface, it is possible to verify whether a transaction was successfully processed and examine its actual onchain details.
+
+Within the Base ecosystem, transaction hashes, block numbers, contract addresses, gas fees, and execution statuses can help investigate unexpected behavior and better understand how decentralized applications operate.
+
+### What I did
+
+I explored the role of blockchain explorers in evaluating and troubleshooting onchain applications.
+
+I identified several useful elements for practical investigation:
+
+- **Transaction hash:** A unique identifier used to locate a transaction.
+- **Transaction status:** Helps determine whether execution succeeded or failed.
+- **Gas information:** Provides details about transaction costs.
+- **Block details:** Shows where the transaction was included.
+- **Contract interactions:** Helps identify which smart contracts were involved.
+- **Event logs:** Provide additional information about actions executed by contracts.
+
+I also considered how comparing application feedback with blockchain explorer data can help distinguish interface problems from actual transaction failures.
+
+### Next goal
+
+Practice using blockchain explorers when evaluating applications in the
+
+
 
 
