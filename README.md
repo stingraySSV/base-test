@@ -666,3 +666,33 @@ Practice using blockchain explorers when evaluating applications in the
 
 
 
+## Day 69 — Evaluating Wallet Connections and Network Switching on Base
+
+### What I learned
+
+Wallet connectivity is one of the first interactions users experience when entering a Web3 application. A smooth and reliable connection process is essential for building trust and making decentralized products accessible.
+
+However, connecting a wallet is only part of the experience. Applications must also handle network changes correctly, display clear messages, and respond appropriately when users disconnect or switch accounts.
+
+For applications in the Base ecosystem, these details are especially important because users may interact with multiple networks and different wallet providers.
+
+### What I explored
+
+I outlined several important scenarios for evaluating wallet connectivity:
+
+- **Wallet connection:** Does the application connect successfully and display the correct wallet address?
+- **Network compatibility:** Does the application recognize when the wallet is connected to Base?
+- **Network switching:** Are users guided clearly when they need to switch networks?
+- **Account changes:** Does the interface update when a user switches to another wallet account?
+- **Disconnection:** Does the application correctly reflect when a wallet is disconnected?
+- **Error handling:** Are connection failures explained in a clear and understandable way?
+
+These scenarios can help identify usability issues before they become frustrating problems for users.
+
+### Next goal
+
+Continue exploring practical QA scenarios across Base applications. Focus on wallet interactions, transaction preparation, error messages, and the overall user experience.
+
+Reliable wallet connectivity is a small detail that makes a big difference in Web3 adoption.
+
+
