@@ -696,3 +696,33 @@ Continue exploring practical QA scenarios across Base applications. Focus on wal
 Reliable wallet connectivity is a small detail that makes a big difference in Web3 adoption.
 
 
+## Day 70 — Understanding Transaction Errors in Web3 Applications
+
+### What I learned
+
+Transaction errors are an important part of the Web3 user experience. Transactions can fail for different reasons, including insufficient funds, network congestion, incorrect settings, rejected wallet requests, or smart contract execution issues.
+
+A good decentralized application should not simply display a generic error message. It should help users understand what happened and, whenever possible, explain how to resolve the issue.
+
+For QA contributors, evaluating error handling is an opportunity to identify confusing messages, missing information, and situations where users may accidentally repeat failed actions.
+
+### What I explored
+
+I outlined several common transaction failure scenarios to consider when evaluating Web3 applications:
+
+- **Insufficient funds:** Does the application clearly explain when a wallet lacks enough funds for a transaction or gas fees?
+- **User rejection:** Is a rejected wallet request handled without confusing warnings?
+- **Network issues:** Does the interface respond appropriately when the network is unavailable or unstable?
+- **Transaction failure:** Can users distinguish between pending, successful, and failed transactions?
+- **Clear guidance:** Does the application provide useful information about what to do next?
+- **Duplicate submissions:** Does the interface prevent users from accidentally submitting the same transaction multiple times?
+
+These scenarios demonstrate why error handling should be treated as an essential part of product quality, rather than just a technical detail.
+
+### Next goal
+
+Continue developing a practical QA approach for Base ecosystem applications. Focus on identifying confusing error messages, documenting reproducible issues, and suggesting improvements that make Web3 products easier to use.
+
+A reliable application is not one that never encounters errors, but one that handles them clearly and responsibly.
+
+
