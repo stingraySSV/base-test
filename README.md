@@ -726,3 +726,32 @@ Continue developing a practical QA approach for Base ecosystem applications. Foc
 A reliable application is not one that never encounters errors, but one that handles them clearly and responsibly.
 
 
+## Day 71 — Evaluating Transaction History in Web3 Applications
+
+### What I learned
+
+Transaction history is an important feature of any Web3 application. It helps users understand their onchain activity, track previous operations, and verify what happened to their funds.
+
+A well-designed transaction history should provide accurate information and make it easy to find important details. Incorrect statuses, missing transactions, or unclear descriptions can reduce user confidence, even when the underlying blockchain operations work correctly.
+
+For QA contributors, this creates an opportunity to evaluate both data accuracy and the way transaction information is presented.
+
+### What I explored
+
+I outlined several key areas to consider when reviewing transaction history:
+
+- **Data accuracy:** Does the application display the correct transaction details?
+- **Transaction status:** Are pending, successful, and failed transactions clearly distinguished?
+- **Transaction ordering:** Are recent activities displayed in the expected order?
+- **Transaction details:** Can users easily find amounts, timestamps, fees, and transaction hashes?
+- **Explorer links:** Can users open the corresponding transaction in a blockchain explorer?
+- **History updates:** Does the activity list refresh correctly after a new transaction?
+
+Comparing the information shown in an application with blockchain explorer data can help identify inconsistencies and provide stronger evidence for QA reports.
+
+### Next goal
+
+Continue evaluating
+
+
+
