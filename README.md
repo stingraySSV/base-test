@@ -754,4 +754,36 @@ Comparing the information shown in an application with blockchain explorer data 
 Continue evaluating
 
 
+## Day 72 — Testing Notifications in Web3 Applications
+
+### What I learned
+
+Notifications play an important role in keeping users informed about activity within Web3 applications. They can communicate transaction updates, wallet events, security warnings, and important changes in application status.
+
+However, notifications are only useful when they are accurate, timely, and easy to understand. Incorrect information or missing alerts can create confusion and reduce user confidence.
+
+For QA contributors, testing notification behavior means looking beyond whether a message appears. It is also important to evaluate its timing, relevance, clarity, and consistency with actual onchain events.
+
+### What I explored
+
+I outlined several scenarios for evaluating notifications in Web3 applications:
+
+- **Transaction updates:** Are users informed when transactions are submitted, confirmed, or fail?
+- **Accuracy:** Do notifications reflect the actual transaction status?
+- **Timing:** Are alerts delivered at an appropriate moment?
+- **Clarity:** Are messages understandable without requiring advanced blockchain knowledge?
+- **Duplicate alerts:** Does the application avoid sending repeated notifications for the same event?
+- **Security warnings:** Are important wallet or account-related warnings clearly communicated?
+- **Notification settings:** Can users manage which updates they want to receive?
+
+These checks can help identify communication issues that might otherwise go unnoticed during basic functionality testing.
+
+### Next goal
+
+Continue exploring practical QA scenarios across Base ecosystem applications. Focus on notification reliability, user feedback, and how applications communicate important events.
+
+Good notifications do more than deliver information — they help users feel informed, confident, and in control.
+
+
+
 
