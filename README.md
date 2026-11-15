@@ -786,4 +786,35 @@ Good notifications do more than deliver information — they help users feel inf
 
 
 
+## Day 73 — Evaluating Mobile Usability in Web3 Applications
+
+### What I learned
+
+Mobile usability is an important part of making Web3 applications accessible to a wider audience. Many users interact with decentralized applications through mobile browsers and wallet apps, so the experience should remain clear and reliable on smaller screens.
+
+A layout that works perfectly on desktop may introduce problems on mobile devices. Buttons can become difficult to reach, important information may be hidden, and wallet connection flows may behave differently.
+
+For QA contributors, mobile testing helps identify usability issues that are easy to overlook during desktop-only reviews.
+
+### What I explored
+
+I outlined several areas to consider when evaluating mobile Web3 applications:
+
+- **Responsive layout:** Does the interface adapt correctly to different screen sizes?
+- **Navigation:** Can users easily access important sections without unnecessary scrolling?
+- **Wallet connectivity:** Does the connection flow work smoothly with mobile wallets?
+- **Transaction experience:** Are transaction details and confirmation steps easy to review?
+- **Touch controls:** Are buttons and interactive elements comfortable to use?
+- **Readability:** Are text, balances, and important status messages clearly visible?
+- **Error handling:** Are warnings and error messages displayed properly on smaller screens?
+
+These checks can help uncover usability problems that may affect user confidence and prevent successful interactions.
+
+### Next goal
+
+Continue evaluating Base ecosystem applications from different user perspectives. Pay closer attention to mobile usability, wallet interactions, and the consistency of the experience across devices.
+
+A good Web3 product should not only work — it should work comfortably wherever users access it.
+
+
 
