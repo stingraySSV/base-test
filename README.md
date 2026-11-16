@@ -817,4 +817,32 @@ Continue evaluating Base ecosystem applications from different user perspectives
 A good Web3 product should not only work — it should work comfortably wherever users access it.
 
 
+## Day 74 — Evaluating Safety and Confirmation Flows in Web3 Applications
 
+### What I learned
+
+Security in Web3 is not only about smart contracts and blockchain infrastructure. The way an application presents important actions to users also plays a major role in preventing mistakes.
+
+Sending assets, approving token allowances, signing messages, and interacting with smart contracts can have significant consequences. Users need clear information before confirming these actions.
+
+For QA contributors, evaluating confirmation flows means checking whether an application communicates risks properly and gives users enough information to make informed decisions.
+
+### What I explored
+
+I outlined several important areas for reviewing confirmation flows:
+
+- **Action clarity:** Does the application clearly explain what the user is about to do?
+- **Transaction details:** Are recipients, token amounts, and relevant fees displayed correctly?
+- **Token approvals:** Does the interface explain when a smart contract is requesting permission to access tokens?
+- **Risk warnings:** Are potentially sensitive or irreversible actions accompanied by appropriate explanations?
+- **User cancellation:** Can users safely cancel an action before confirming it?
+- **Confirmation feedback:** Does the application clearly communicate whether an action was submitted or completed?
+- **Unusual requests:** Are unexpected signing requests presented in a way that encourages users to review them carefully?
+
+These checks help identify situations where confusing interfaces or missing warnings could lead to costly user mistakes.
+
+### Next goal
+
+Continue exploring practical QA scenarios across Base ecosystem applications. Focus on transaction safety, permission transparency, and clear communication before users approve important actions.
+
+Good security design should help users understand what they are signing and why it matters.
