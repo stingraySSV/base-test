@@ -846,3 +846,38 @@ These checks help identify situations where confusing interfaces or missing warn
 Continue exploring practical QA scenarios across Base ecosystem applications. Focus on transaction safety, permission transparency, and clear communication before users approve important actions.
 
 Good security design should help users understand what they are signing and why it matters.
+
+
+
+## Day 75 — Testing Network Reliability in Web3 Applications
+
+### What I learned
+
+Network reliability has a direct impact on how users interact with decentralized applications. Even a well-designed product can become frustrating when the connection is slow, unstable, or temporarily unavailable.
+
+Web3 applications often depend on communication between wallets, RPC providers, blockchain networks, and backend services. Problems in any of these areas can affect transaction preparation, balance updates, and the overall user experience.
+
+For QA contributors, testing network-related behavior helps identify weaknesses that may not appear under normal conditions.
+
+### What I explored
+
+I outlined several scenarios for evaluating network reliability:
+
+- **Slow connections:** Does the application remain usable when network responses take longer than expected?
+- **Temporary disconnections:** Does the interface handle a lost connection without crashing?
+- **RPC errors:** Are network communication failures presented clearly?
+- **Data synchronization:** Does the application refresh balances and transaction information after connectivity returns?
+- **Pending operations:** Are users informed when an operation is still waiting for a network response?
+- **Retry behavior:** Can users safely retry failed requests without accidentally duplicating actions?
+- **User feedback:** Does the interface distinguish between a network problem and an actual transaction failure?
+
+These scenarios can help reveal reliability issues and improve the application's behavior under less-than-ideal conditions.
+
+### Next goal
+
+Continue developing a practical QA checklist for Base ecosystem applications. Focus on network resilience, recovery after temporary failures, and clear communication when services become unavailable.
+
+A reliable Web3 application should provide a predictable experience even when network conditions are far from perfect.
+
+
+
