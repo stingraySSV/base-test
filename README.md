@@ -880,4 +880,38 @@ Continue developing a practical QA checklist for Base ecosystem applications. Fo
 A reliable Web3 application should provide a predictable experience even when network conditions are far from perfect.
 
 
+## Day 76 — Testing UI Consistency and State Persistence in Web3 Applications
+
+### What I learned
+
+A reliable Web3 application should maintain a consistent user experience even when users navigate between sections, refresh pages, or return after temporary interruptions.
+
+User state includes information such as connected wallets, selected networks, interface preferences, and transaction activity. If this information is lost or displayed incorrectly, users may become confused or repeat actions unnecessarily.
+
+For QA contributors, checking state persistence helps identify issues that are not always visible during a simple first-time interaction.
+
+### What I explored
+
+I outlined several scenarios for evaluating interface consistency and state persistence:
+
+- **Page refresh:** Does the application restore the expected interface state after a reload?
+- **Wallet session:** Is the wallet connection status displayed correctly when returning to the application?
+- **Network selection:** Does the selected network remain consistent with the connected wallet?
+- **Navigation:** Does moving between sections preserve relevant information?
+- **Transaction state:** Are pending and completed operations represented consistently across different views?
+- **Preference persistence:** Are user settings preserved when navigating or reopening the application?
+- **Unexpected interruptions:** Does the interface recover gracefully after a temporary connection loss?
+
+These checks can help uncover inconsistencies that affect usability and user confidence.
+
+### Next goal
+
+Continue evaluating Base ecosystem applications with a focus on consistency across different user sessions and interactions. Look for situations where information becomes outdated, disappears, or contradicts the actual application state.
+
+A trustworthy Web3 experience depends not only on successful transactions, but also on consistent and predictable behavior throughout the entire user journey.
+
+
+
+
+
 
