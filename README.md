@@ -913,5 +913,35 @@ A trustworthy Web3 experience depends not only on successful transactions, but a
 
 
 
+## Day 77 — Evaluating User Guidance and Onboarding in Web3 Applications
 
+### What I learned
+
+Onboarding is often a user's first real interaction with a Web3 application. If the initial experience is confusing, users may leave before discovering the product's actual value.
+
+Decentralized applications introduce concepts that can be unfamiliar to newcomers, including wallet connections, network selection, gas fees, token approvals, and transaction confirmations.
+
+Clear instructions and helpful explanations can make these processes easier to understand without hiding important details.
+
+For QA contributors, evaluating onboarding means checking whether users can complete essential actions with confidence and without unnecessary confusion.
+
+### What I explored
+
+I outlined several areas to consider when reviewing Web3 onboarding:
+
+- **First-time experience:** Are the initial steps presented in a logical order?
+- **Wallet setup:** Does the application explain how to connect a wallet?
+- **Network selection:** Are supported networks clearly identified?
+- **Gas fees:** Can users understand why transaction fees are required?
+- **Tooltips and explanations:** Are unfamiliar terms explained in accessible language?
+- **Error guidance:** Do instructions help users recover from common mistakes?
+- **Progress visibility:** Can users understand which onboarding steps they have completed?
+
+These checks can reveal unnecessary complexity and opportunities to make decentralized products more approachable.
+
+### Next goal
+
+Continue exploring user-centered QA practices across Base ecosystem applications. Focus on onboarding clarity, accessible explanations, and reducing friction during the first interactions.
+
+A successful onboarding experience does not require users to understand everything about blockchain — it helps them take their first steps safely and confidently.
 
