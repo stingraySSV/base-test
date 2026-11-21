@@ -945,3 +945,37 @@ Continue exploring user-centered QA practices across Base ecosystem applications
 
 A successful onboarding experience does not require users to understand everything about blockchain — it helps them take their first steps safely and confidently.
 
+
+## Day 78 — Testing Browser and Wallet Compatibility in Web3
+
+### What I learned
+
+Web3 applications should provide a consistent experience across different browsers and wallet providers. Users have different preferences, devices, and setups, so compatibility is an important part of product quality.
+
+An application that works correctly in one browser may behave differently in another. Wallet extensions can also introduce unexpected issues with connection requests, account selection, transaction signing, and network switching.
+
+For QA contributors, compatibility testing helps identify problems that might affect only a specific group of users.
+
+### What I explored
+
+I outlined several areas to consider when evaluating browser and wallet compatibility:
+
+- **Browser support:** Does the application work consistently across commonly used browsers?
+- **Wallet providers:** Are supported wallet extensions and connection methods handled correctly?
+- **Connection behavior:** Does connecting and disconnecting a wallet work as expected?
+- **Account switching:** Does the application correctly recognize changes between wallet accounts?
+- **Network compatibility:** Does the interface respond properly when users switch to Base?
+- **Interface consistency:** Are layouts and interactive elements displayed correctly across browsers?
+- **Error handling:** Are unsupported configurations explained clearly instead of causing unexpected failures?
+
+These checks can help uncover compatibility issues before they affect a larger number of users.
+
+### Next goal
+
+Continue developing practical QA evaluation methods for Base ecosystem applications. Focus on browser compatibility, wallet integrations, and consistent behavior across different user environments.
+
+A great Web3 product should work reliably for users with different browsers and wallet preferences, not just under one ideal setup.
+
+
+
+
