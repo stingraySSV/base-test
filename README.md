@@ -977,5 +977,39 @@ Continue developing practical QA evaluation methods for Base ecosystem applicati
 A great Web3 product should work reliably for users with different browsers and wallet preferences, not just under one ideal setup.
 
 
+## Day 79 — Evaluating Financial Data Accuracy in DeFi Applications
+
+### What I learned
+
+Accurate financial information is essential for building trust in decentralized finance applications. Users rely on displayed balances, token prices, liquidity information, and estimated returns when making decisions.
+
+Even small discrepancies can create confusion or lead to incorrect expectations. A DeFi interface should present financial data clearly and distinguish between live values, estimates, and historical information.
+
+For QA contributors, evaluating financial data means checking not only how information looks, but also whether it is consistent, understandable, and updated appropriately.
+
+### What I explored
+
+I outlined several important areas for reviewing financial data in DeFi applications:
+
+- **Token balances:** Are wallet balances displayed accurately?
+- **Price information:** Are token prices presented with appropriate precision?
+- **Liquidity data:** Are pool balances and liquidity figures clearly explained?
+- **Estimated returns:** Are projected values distinguished from guaranteed outcomes?
+- **Data freshness:** Does the interface indicate when information may be outdated?
+- **Value calculations:** Are token amounts and their displayed equivalents consistent?
+- **Loading and error states:** Does the application handle unavailable or delayed market data clearly?
+
+These checks can help identify misleading displays, calculation inconsistencies, and gaps in financial transparency.
+
+### Next goal
+
+Continue evaluating DeFi products in the Base ecosystem from a user and QA perspective. Focus on financial data accuracy, transparent calculations, and clear communication of estimates and risks.
+
+Trust in DeFi depends not only on functioning smart contracts, but also on giving users accurate and understandable information.
+
+
+
+
+
 
 
