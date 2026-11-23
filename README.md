@@ -1009,6 +1009,37 @@ Trust in DeFi depends not only on functioning smart contracts, but also on givin
 
 
 
+## Day 80 — Evaluating Fee Transparency in DeFi Applications
+
+### What I learned
+
+Transaction costs are an important part of the DeFi user experience. Users may encounter network gas fees, protocol fees, swap fees, and other costs depending on the operation they perform.
+
+When these costs are unclear or displayed too late, users may feel misled or hesitate to complete a transaction.
+
+For QA contributors, fee transparency is an important area to evaluate. A reliable application should present relevant costs clearly and help users understand how they affect the final result.
+
+### What I explored
+
+I outlined several areas to consider when reviewing fee transparency:
+
+- **Gas fee estimates:** Are expected network costs displayed before transaction confirmation?
+- **Protocol fees:** Are application-specific fees clearly identified?
+- **Final amounts:** Can users understand how fees affect the amount they receive?
+- **Fee changes:** Does the application update estimates when network conditions change?
+- **Unexpected costs:** Are additional charges communicated before users approve an operation?
+- **Information clarity:** Are different types of fees explained in understandable language?
+- **Transaction confirmation:** Does the final confirmation screen provide a clear overview of relevant costs?
+
+These checks can help identify confusing fee displays and improve users' understanding of transaction expenses.
+
+### Next goal
+
+Continue evaluating DeFi applications in the Base ecosystem from a QA and user experience perspective. Focus on fee calculations, transaction transparency, and the accuracy of information presented before confirmation.
+
+Transparent fees help users make informed decisions and build long-term trust in decentralized finance.
+
+
 
 
 
