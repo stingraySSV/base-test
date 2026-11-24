@@ -1042,5 +1042,38 @@ Transparent fees help users make informed decisions and build long-term trust in
 
 
 
+## Day 81 — QA Evaluation of Token Swap Experiences on Base
+
+### What I learned
+
+Token swaps are among the most common interactions in decentralized finance. They allow users to exchange one token for another without relying on a traditional centralized intermediary.
+
+However, a swap involves several important details: exchange rates, price impact, slippage tolerance, liquidity, network fees, and transaction confirmation.
+
+A well-designed interface should communicate these details clearly before users approve an operation.
+
+For QA contributors, evaluating swap experiences means checking whether the displayed information is accurate, understandable, and consistent throughout the transaction flow.
+
+### What I explored
+
+I outlined several scenarios for reviewing token swap functionality:
+
+- **Token selection:** Can users select the correct input and output tokens?
+- **Amount calculation:** Does the application update estimated output amounts correctly?
+- **Price impact:** Is the potential effect of the trade on the market price clearly displayed?
+- **Slippage tolerance:** Can users understand and adjust their slippage settings?
+- **Minimum received:** Is the minimum expected output communicated before confirmation?
+- **Fee transparency:** Are network and protocol fees presented clearly?
+- **Transaction status:** Does the interface accurately reflect pending, successful, and failed swaps?
+
+These checks can help identify confusing information, calculation inconsistencies, and usability problems during one of the most important DeFi interactions.
+
+### Next goal
+
+Continue evaluating swap experiences across Base ecosystem applications. Focus on transaction preparation, price estimates, slippage information, and the clarity of confirmation screens.
+
+A trustworthy swap experience gives users
+
+
 
 
