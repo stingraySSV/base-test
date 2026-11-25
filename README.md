@@ -1075,5 +1075,35 @@ Continue evaluating swap experiences across Base ecosystem applications. Focus o
 A trustworthy swap experience gives users
 
 
+## Day 82 — Understanding Liquidity Pool Behavior in DeFi
+
+### What I learned
+
+Liquidity pools are a fundamental component of many decentralized finance protocols. They allow users to swap assets through smart contracts rather than relying on traditional order books.
+
+However, pool behavior can change depending on liquidity levels, trading volume, and the size of individual swaps.
+
+For users, these changes can affect exchange rates, price impact, and the final amount received. For QA contributors, understanding these mechanics helps evaluate whether a DeFi interface communicates important information correctly.
+
+### What I explored
+
+I outlined several areas to consider when evaluating liquidity pool experiences:
+
+- **Liquidity availability:** Does the application clearly display available liquidity?
+- **Price impact:** Does the estimated price impact change appropriately with trade size?
+- **Large swaps:** Does the interface warn users when an operation may significantly affect the pool price?
+- **Insufficient liquidity:** Are users informed when a swap cannot be completed?
+- **Pool information:** Are token reserves and relevant pool details presented clearly?
+- **Estimate consistency:** Do displayed swap estimates correspond with the selected trading conditions?
+- **Error handling:** Does the application explain liquidity-related failures in understandable language?
+
+These checks can help identify misleading estimates and improve transparency around one of the core mechanisms of DeFi.
+
+### Next goal
+
+Continue exploring DeFi protocols across the Base ecosystem. Focus on liquidity information, swap estimates, and how applications communicate market-related risks to users.
+
+Understanding liquidity helps QA contributors evaluate not just whether a transaction works, but whether users understand the conditions behind it.
+
 
 
