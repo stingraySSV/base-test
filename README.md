@@ -1106,4 +1106,36 @@ Continue exploring DeFi protocols across the Base ecosystem. Focus on liquidity 
 Understanding liquidity helps QA contributors evaluate not just whether a transaction works, but whether users understand the conditions behind it.
 
 
+## Day 83 — QA Evaluation of NFT Marketplaces on Base
+
+### What I learned
+
+NFT marketplaces provide users with tools to discover, purchase, sell, and manage digital assets. Their user experience depends on several important elements, including accurate ownership information, clear pricing, reliable transaction flows, and accessible collection details.
+
+Because NFT interactions involve blockchain transactions, even small interface inconsistencies can create confusion. Users need to understand what they are buying, what they own, and what happens after a transaction is completed.
+
+For QA contributors, evaluating NFT marketplaces means checking both functional behavior and the clarity of information presented to users.
+
+### What I explored
+
+I outlined several areas for reviewing NFT marketplace experiences:
+
+- **Collection information:** Are collection names, descriptions, and item details displayed correctly?
+- **Ownership verification:** Does the marketplace show the correct wallet ownership information?
+- **Listing accuracy:** Are NFT prices and listing statuses presented consistently?
+- **Purchase flow:** Can users review transaction details before confirming a purchase?
+- **Transaction status:** Are successful, pending, and failed operations clearly distinguished?
+- **Metadata display:** Are images, attributes, and descriptions loaded correctly?
+- **Marketplace updates:** Does ownership and listing information refresh after a completed transaction?
+
+These checks can help identify inaccurate displays, confusing interactions, and gaps in marketplace transparency.
+
+### Next goal
+
+Continue exploring different types of applications in the Base ecosystem. Focus on NFT marketplace usability, ownership verification, and the consistency of information across blockchain activity and application interfaces.
+
+A trustworthy NFT marketplace should make digital ownership and transactions easy to understand and verify.
+
+
+
 
