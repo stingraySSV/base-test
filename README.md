@@ -1138,4 +1138,32 @@ A trustworthy NFT marketplace should make digital ownership and transactions eas
 
 
 
+## Day 84 — Evaluating Cross-Chain Bridge Experiences in Web3
 
+### What I learned
+
+Cross-chain bridges allow users to transfer assets between different blockchain networks. They play an important role in connecting ecosystems, but they also introduce additional complexity into the user experience.
+
+Unlike a standard transaction, a cross-chain transfer may involve multiple networks, separate confirmation stages, processing delays, and different fee structures.
+
+Users need clear information throughout the process. Without it, even a successful transfer can feel confusing or unreliable.
+
+### What I explored
+
+I outlined several important areas for evaluating cross-chain bridge experiences:
+
+- **Network selection:** Are the source and destination networks clearly identified?
+- **Asset selection:** Is the selected token supported on both networks?
+- **Fee transparency:** Are estimated fees and possible additional costs visible before confirmation?
+- **Transfer estimates:** Does the interface provide a reasonable estimated completion time?
+- **Transaction tracking:** Can users follow the transfer through each processing stage?
+- **Error handling:** Are failed, delayed, or interrupted transfers explained clearly?
+- **Final confirmation:** Does the application clearly communicate when assets arrive on the destination network?
+
+These areas can help identify confusing interactions and improve transparency during cross-chain operations.
+
+### Next goal
+
+Continue exploring the Base ecosystem from a QA perspective, focusing on transaction reliability, user protection, and clear communication.
+
+A good cross-chain experience should make complex blockchain operations understandable, predictable, and easy to track.
